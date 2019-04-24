@@ -1,10 +1,4 @@
-# calamus0427.github.io
-## 我的个人主页
-### 分为五个模块
-<ul>
-<li>my resume</li>
-<li>my blog</li>
-<li>my project</li>
-<li>my website</li>
-<li>dear me</li>
-</ul>
+[calamus](https://www.calamus.xyz)
+
+# canvas 动画特效
+- [星星闪烁特效](http://calamus.wiki/canvas/star/index.html)

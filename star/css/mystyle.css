@@ -31,66 +31,12 @@ a{text-decoration:none; color:white}
     background-color:black;
 }
 
-ul {
-    list-style-type: none;
-}
-
-.indexmenu li {
-    float: left;
-    color: white;
-    font-size: 30px;
-    /* font: 30px ChantelliAntiquaRegular, Helvetica, sans-serif; */
-    margin-left: 50px;
-}
-
-.indexnav {
-    margin-top: 200px;
-    margin-left: 30%;
-    position: absolute;
-}
-
-.lefterea {
-    width: 35%;
-    background-color: cornflowerblue;
-    position: fixed;
-    height: 100%;
-}
-
-.righterea {
-    margin-left: 35%;
-    width: 65%;
-    background-color: lightcyan;
-    position: fixed;
-    height: 100%;
-}
-
 canvas {
     position: absolute;
     margin: 50px auto auto 350px;
 }
 
 
-.fontface {
-    font: 16px ChantelliAntiquaRegular, Helvetica, sans-serif;
-}
 
-.intension {
-    text-align: center;
-    margin-top: 10px;
-    font-size: 20px;
-}
 
-.colorWhite {
-    color: white;
-}
 
-.colorBlack {
-    color: black
-}
-
-.information {
-    width: 80%;
-    height: 50px;
-    margin: 0 auto;
-    border: 1px solid red;
-}
