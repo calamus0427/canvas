@@ -24,17 +24,16 @@ a:link , a:hover , a:active , a:visited{text-decoration:none;}
 a{text-decoration:none; color:white}
 
 .background {
-    background: url(../images/bg3.jpeg) repeat;
-    background-size: cover;
-    background-position: center; 
-    background-attachment: fixed;
-    overflow-x: hidden;
     background-color:black;
 }
-
-canvas {
-    position: absolute;
-    margin: 50px auto auto 350px;
+.show{
+    width:1000px;
+    height:400px;
+    border:1px solid white;
+    color:white;
+    text-align:center;
+    margin:0 auto;
+    margin-top:20px;
 }
 
 
